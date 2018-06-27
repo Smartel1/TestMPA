@@ -1,0 +1,27 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+//раздел новостей на index
+
+.hot {
+  font-size: 2rem;
+  h1 {
+    font-size: 5rem;
+  }
+}
+
+//
+
+.advantages {
+  font-size: 2rem;
+}
+
+

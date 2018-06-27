@@ -1,0 +1,9 @@
+{
+    "/js/axios.js": "/js/axios.js",
+    "/js/menu.js": "/js/menu.js",
+    "/css/app.css": "/css/app.css",
+    "/js/orders.js": "/js/orders.js",
+    "/js/vue.js": "/js/vue.js",
+    "/js/bootstrap4_jquery.js": "/js/bootstrap4_jquery.js",
+    "/js/web_sockets.js": "/js/web_sockets.js"
+}
